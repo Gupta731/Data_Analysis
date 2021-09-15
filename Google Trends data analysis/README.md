@@ -5,7 +5,7 @@
 1. How search volume for a hot stock like Telsa relates to that stock's price and
 1. How searches for "Unemployment Benefits" vary with the actual unemployment rate in the United States.
 
-## What you'll learn today
+## What we will learn today
 1.How to make time-series data comparable by resampling and converting to the same periodicity (e.g., from daily data to monthly data).
 1.Fine-tuning the styling of Matplotlib charts by using limits, labels, linestyles, markers, colours, and the chart's resolution.
 1.Using grids to help visually identify seasonality in a time series.
@@ -14,7 +14,7 @@
 1. Review the concepts learned in the previous three days and apply them to new datasets.
 
 ## Learning Points & Summary
-1.How to use .describe() to quickly see some descriptive statistics at a glance.
+1. How to use .describe() to quickly see some descriptive statistics at a glance.
 1. How to use .resample() to make a time-series data comparable to another by changing the periodicity.
 1. How to work with matplotlib.dates Locators to better style a timeline (e.g., an axis on a chart).
 1. How to find the number of NaN values with .isna().values.sum()
