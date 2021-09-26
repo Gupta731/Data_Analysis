@@ -5,3 +5,5 @@ This repo contains Data Analysis and Data Science projects that I worked upon us
 <img src="https://www.fullstackpython.com/img/logos/matplotlib.png">
 <img src="https://i.imgur.com/dZ1XE9o.png" width=400>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Plotly-logo-01-square.png/1200px-Plotly-logo-01-square.png">
+<img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg">
+<omg src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/390px-Scikit_learn_logo_small.svg.png">
